@@ -2,8 +2,9 @@
 ## SkillFactory 
 ### Data Science Course Python-8.5
 ### **Content**
-1. Project Description
-2. Short Summary about Data
+
+1. Project Description 
+2. Short Summary about data
 3. How to use the Project
 4. Credits
 
