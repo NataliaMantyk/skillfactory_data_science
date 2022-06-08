@@ -2,8 +2,8 @@
 ## SkillFactory 
 ### Data Science Course Python-8.5
 ### **Content**
-1. [Project Description] (https://github.com/NataliaMantyk/skillfactory_data_science/blob/main/project_0/README.md#project-description)
-2. Short Summary about data
+1. Project Description
+2. Short Summary about Data
 3. How to use the Project
 4. Credits
 
@@ -24,7 +24,7 @@ The result is how many attempts in average has been made within 1000 repetition
 
 Learning to write good algorithm in Python and present it on GitHub
 
-### **Short summary about data**
+### **Short Summary about Data**
 Randomly chosen numbers by importing numpy bibliothek. 
 
 ### **How to use the project**
