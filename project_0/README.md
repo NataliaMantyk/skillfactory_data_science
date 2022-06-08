@@ -2,7 +2,7 @@
 ## SkillFactory 
 ### Data Science Course Python-8.5
 ### **Content**
-1. [Project Description] (https://github.com/NataliaMantyk/skillfactory_data_science/blob/main/project_0/README.md#project-description)
+1. Project Description 
 2. Short Summary about data
 3. How to use the Project
 4. Credits
