@@ -27,6 +27,7 @@ Therefore it is required to write an algorithm that would guess the hidden numbe
 
 #### **Outcome:**
 Option 1: The result is how many attempts in average have been made within 1000 repetitions.
+
 Option 2: The result is number of attempts is less than 20 in average within 1000 repetitions.
 
 #### **Training outcome:**
